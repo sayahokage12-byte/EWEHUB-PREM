@@ -34,7 +34,7 @@ local CONFIG = {
     --==========================================================--
 
     GAMES = {
-           [8243724761] = "https://raw.githubusercontent.com/sayahokage12-byte/EWEHUB-PREM/refs/heads/main/PREM-FAF.lua"
+
         -- Contoh:
         -- [123456789] = "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/script.lua",
 
