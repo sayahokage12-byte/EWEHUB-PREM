@@ -26,7 +26,7 @@ local CONFIG = {
     VERSION = "PREMIUM V4",
 
     -- MASUKKAN URL EDGE FUNCTION KAMU DI SINI
-    API_URL = "doujin.desu.xxx",
+    API_URL = "https://pkcqvgiymbhfgrmcflzf.supabase.co/functions/v1/rapid-task",
 
     --==========================================================--
     -- GAME SCRIPTS
